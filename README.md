@@ -10,6 +10,9 @@
 * 作業人数：2人
 * 作業期間：約4週間
 
+## :earth_africa:URL
+### URL：https://azurelizard6.sakura.ne.jp/hp/
+
 閲覧時は以下のIDとPassを入力してください。
 ### :lock:ID&Pass
 * ID:1010101
